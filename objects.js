@@ -1,0 +1,1 @@
+let playlist = {artist: 'song'};
